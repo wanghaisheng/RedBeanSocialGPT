@@ -1,3 +1,32 @@
+https://github.com/wanghaisheng/Spotify-Account-Generator
+
+
+https://github.com/wanghaisheng/create_appleid
+
+https://github.com/wanghaisheng/auto-gen-apple-ids
+
+https://github.com/wanghaisheng/cloudflare-email
+
+https://github.com/wanghaisheng/Auto-Gmail-Creator
+
+https://github.com/wanghaisheng/google-account
+
+https://github.com/wanghaisheng/Outlook-Account-Creator
+
+https://github.com/wanghaisheng/OutlookGen
+
+https://github.com/wanghaisheng/edu-mail-auto-generator
+
+https://github.com/wanghaisheng/YandexMail-Account-Creator
+
+https://github.com/wanghaisheng/Fake-Person-Generator
+
+
+
+https://github.com/wanghaisheng/microsoft-account-creator
+
+
+
 # RedBeanSoupSocialGPT
 
 This project automates the creation of accounts on Instagram, Reddit, and TikTok using Selenium. It also handles proxy rotation for account creation.
