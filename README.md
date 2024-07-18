@@ -8,6 +8,8 @@ first prepare account use https://github.com/wanghaisheng/persona-account-genius
 
 This project automates the creation of accounts on Instagram, Reddit, and TikTok using drissionpage and uiautomator2
 
+you will need android phone+sim for rotate proxy
+
 ## Requirements
 
 Make sure you have the following requirements installed:
